@@ -1,0 +1,52 @@
+[
+    {
+        "question":"What is the capital of France?", 
+        "difficult":"1", 
+        "answer":"Paris"
+    },
+    {
+        "question":"What is 2 + 2?", 
+        "difficult":"1", 
+        "answer":"4"
+    },
+    {
+        "question":"Who wrote 'Romeo and Juliet'?", 
+        "difficult":"2", 
+        "answer":"William Shakespeare"
+    },
+    {
+        "question":"Which country is known as the Land of the Rising Sun?", 
+        "difficult":"2", 
+        "answer":"Japan"
+    },
+    {
+        "question":"Who is known as the King of Pop?", 
+        "difficult":"3", 
+        "answer":"Michael Jackson"
+    },
+    {
+        "question":"In what year did World War II end?", 
+        "difficult":"3", 
+        "answer":"1945"
+    },
+    {
+        "question":"Who is considered one of the best football players of all time, known for playing with Barcelona?", 
+        "difficult":"4", 
+        "answer":"Lionel Messi"
+    },
+    {
+        "question":"Who was the first President of the United States?", 
+        "difficult":"4", 
+        "answer":"George Washington"
+    },
+    {
+        "question":"What is the capital of Italy?", 
+        "difficult":"5", 
+        "answer":"Rome"
+    },
+    {
+        "question":"Who is the famous Portuguese footballer known for playing with Real Madrid and Juventus?", 
+        "difficult":"5", 
+        "answer":"Cristiano Ronaldo"
+    }
+]
